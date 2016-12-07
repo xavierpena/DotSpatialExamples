@@ -1,10 +1,10 @@
 # DotSpatialExamples
 
-DotSpatial examples copied from the documentation:
+DotSpatial examples classified and normalized, taken from [the documentation page](
+https://dotspatial.codeplex.com/wikipage?title=Desktop_SampleCode).
 
-https://dotspatial.codeplex.com/wikipage?title=Desktop_SampleCode
+It is a Console project that uses the correct NuGet packages.
 
-Classified into a single project, with the NuGet packages and no compilation errors.
 
 ## DotSpatial
 
