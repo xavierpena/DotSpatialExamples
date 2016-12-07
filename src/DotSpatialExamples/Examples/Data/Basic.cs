@@ -11,7 +11,7 @@ namespace dotspatial_tests.Examples.Data
 {
     static class Basic
     {
-        public static void CreatingALineFeature()
+        public static void CreatingLineFeature()
         {
             //Creates a random number generator
             Random rnd = new Random();

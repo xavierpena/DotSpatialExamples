@@ -15,14 +15,7 @@ namespace dotspatial_tests
     {
         static void Main(string[] args)
         {
-            //var area = PolygonArea.CalculateArea();
-
-            //var shapefilePath = @"L:\BD\SIG\EUROPE\EUROPE BASINS.shp";
-            //ShapefileAnalysis.CycleThroughVertices(shapefilePath);
-
-            //var rasterFilePath = @"L:\BD\SIG_MNT\SUISSE\CH_AUT_90m.aux";
-            //var rasterFilePath = @"L:\BD\SIG_MNT\ITALIE\AOSTA\DTM BIZZARE\geo.tif";
-            //Raster.OpenRasterAndGetValues(rasterFilePath);
+            Examples.Data.Basic.CreatingLineFeature();
         }
 
     }
