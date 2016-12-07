@@ -13,7 +13,10 @@ namespace dotspatial_tests.Examples.Data
 
         /// <summary>
         /// Be sure to install the GDAL extension if you want to view different types of files.
-        /// 
+        ///        
+        /// How to Support Extensions in DotSpatial:
+        /// https://justinwebdesign.wordpress.com/2015/03/26/how-to-support-extensions-in-dotspatial/
+        ///        
         /// Otherwise the only accepted format seems to be .bgd
         /// 
         /// `FileTypeNotSupported` error in the source code:
