@@ -2,3 +2,7 @@
 /packages
 /DotSpatialExamples/bin
 /DotSpatialExamples/obj
+/src/.vs
+/src/packages
+/src/DotSpatialExamples/obj
+/src/DotSpatialExamples/bin
